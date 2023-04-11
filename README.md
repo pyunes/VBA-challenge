@@ -25,3 +25,6 @@ Other Considerations
 
 Use the sheet alphabetical_testing.xlsx while developing your code. This dataset is smaller and will allow you to test faster. Your code should run on this file in under 3 to 5 minutes.
 Make sure that the script acts the same on every sheet. The joy of VBA is that it takes the tediousness out of repetitive tasks with the click of a button.
+
+SIDENOTE:
+Sub MultipleYearStockData.docx shows the code used in case the .cls file is corrupted
